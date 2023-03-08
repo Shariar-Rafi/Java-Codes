@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;datatypes.Anisul_Assingment_2&apos; to &apos;Product&apos;&#x0A;- Original project: &apos;DataTypes&apos;&#x0A;- Original element: &apos;datatypes.Anisul_Assingment_2&apos;&#x0A;- Renamed element: &apos;datatypes.Product&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Anisul_Assingment_2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;datatypes{Anisul_Assingment_2.java[Anisul_Assingment_2" matchStrategy="1" name="Product" qualified="false" references="true" similarDeclarations="false" stamp="1670311847928" textual="false" version="1.0"/>
+</session>

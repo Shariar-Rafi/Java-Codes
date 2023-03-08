@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;cse_204.AvaregeDemo.java&apos; to &apos;AverageDemo.java&apos;&#x0A;- Original project: &apos;CSE_204&apos;&#x0A;- Original element: &apos;cse_204.AvaregeDemo.java&apos;&#x0A;- Renamed element: &apos;cse_204.AverageDemo.java&apos;" description="Rename compilation unit &apos;AvaregeDemo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;cse_204{AvaregeDemo.java" name="AverageDemo.java" references="false" stamp="1675186619524" version="1.0"/>
+</session>

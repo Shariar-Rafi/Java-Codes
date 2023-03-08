@@ -1,0 +1,30 @@
+package CSE_203;
+
+public class mid {
+public static void main (String[]args) {
+	int [] array1 = new int [] {1,3,5,7,9}; //  result:
+	                                        //  9
+	int [] array2 = new int [] {2,3,6,7,5,9};
+
+	int len =  array1.length; 
+	int result = 0;
+	
+	
+	if (array2.length < len)
+		len = array2.length; //len = 5
+	
+	for (int i = 0; i < len; i++)   //the loop will run 0 to 4th indexes of those arrays
+		{
+			if (array1[i]>array2[i])
+				{
+					result += array1[i];
+				}
+			else
+				{
+					result += array2[i];
+				}
+		}
+		
+	System.out.println("Result:"+result);
+}
+}

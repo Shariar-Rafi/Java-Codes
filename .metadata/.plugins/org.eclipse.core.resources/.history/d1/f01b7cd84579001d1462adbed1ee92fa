@@ -1,0 +1,42 @@
+package beginerjava;
+import java.util.Scanner;
+public class primeDemo {
+
+	public static void main(String[] args) {
+	Scanner input=new Scanner(System.in);
+	
+	
+	int n;
+	int count=0;
+	System.out.print("Enter a positive integer: ");
+	n=input.nextInt();
+	
+	if(n==1||n==0) {
+		
+		System.out.println("The number is not prime.");
+		}
+	
+	
+	else {
+	for (int i = 2; i < n; i++) {
+		
+		if(n%i==0) {
+			count++;
+			break;
+			
+		}
+	}
+	}
+		if(count==0) {
+			System.out.println("The number is prime.");
+		}
+		
+		else {
+		
+		}
+		
+		
+	}
+	
+
+}

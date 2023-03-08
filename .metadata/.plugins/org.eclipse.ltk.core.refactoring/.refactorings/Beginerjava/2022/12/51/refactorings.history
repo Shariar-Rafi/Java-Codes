@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;beginerjava.FibonnaciDemo&apos; to &apos;FibonacciDemo&apos;&#x0A;- Original project: &apos;Beginerjava&apos;&#x0A;- Original element: &apos;beginerjava.FibonnaciDemo&apos;&#x0A;- Renamed element: &apos;beginerjava.FibonacciDemo&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FibonnaciDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;beginerjava{FibonnaciDemo.java[FibonnaciDemo" matchStrategy="1" name="FibonacciDemo" qualified="false" references="true" similarDeclarations="false" stamp="1670773981191" textual="false" version="1.0"/>
+</session>
